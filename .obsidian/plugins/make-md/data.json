@@ -36,6 +36,11 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "CS_Obsidian": [
+      "네트워크 모델 (TCP",
+      "네트워크 모델 (TCP",
+      "네트워크 모델 (TCP",
+      "네트워크 모델 (TCP",
+      "네트워크 모델 (TCP",
       "Network"
     ]
   },
@@ -74,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694866792132,
+  "spacesAutoBackupLast": 1694869090641,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
