@@ -34,7 +34,11 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "CS_Obsidian": [
+      "Network"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
@@ -70,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694856244446,
+  "spacesAutoBackupLast": 1694858028334,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

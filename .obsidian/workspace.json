@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Network/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Network/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Network/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Network/무제 파일.md"
               }
             }
           },
@@ -173,10 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d03c6f27d3611e15",
+  "active": "b0e9798b38c74c42",
   "lastOpenFiles": [
+    "Network/무제 파일.md",
+    "Network/Network.md",
+    "Network",
+    "무제 파일.canvas",
+    "README.md",
     "Context/spacesLastSync.log",
-    "Context",
-    "README.md"
+    "Context"
   ]
 }
