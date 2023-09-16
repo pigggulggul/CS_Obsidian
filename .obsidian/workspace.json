@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,17 +174,17 @@
   },
   "active": "b0e9798b38c74c42",
   "lastOpenFiles": [
-    "Network/네트워크 포괄.md",
-    "Network/3계층 데이터링크.md",
-    "Network/2계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/3계층 데이터링크.md",
+    "Network/노드.md",
+    "Network/네트워크 포괄.md",
+    "Network/2계층 데이터링크.md",
     "Network/context.mdb",
     "Network/Network.md",
     "네트워크 모델 (TCP/IP).md",
     "네트워크 모델 (TCP/네트워크 모델 (TCP.md",
     "네트워크 모델 (TCP",
     "README.md",
-    "Network/노드.md",
     "conflict-files-obsidian-git.md",
     "Network",
     "Context/spacesLastSync.log",
