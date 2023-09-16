@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Network/네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Network/네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Network/네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Network/네트워크.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "9ffa27295e42dd4e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "Network/네트워크.md",
     "Network/노드.md",
+    "Network/네트워크.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Network/Network.md",
     "Network",
     "Context/spacesLastSync.log",

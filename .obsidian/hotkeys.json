@@ -1,4 +1,20 @@
 {
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -26,56 +42,22 @@
       "key": "3"
     }
   ],
-  "editor:set-heading-4": [
+  "editor:toggle-code": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "4"
+      "key": "E"
     }
   ],
-  "editor:set-heading-5": [
+  "editor:insert-callout": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "5"
-    }
-  ],
-  "editor:set-heading-6": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "6"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:unfold-all": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
+      "key": "Q"
     }
   ],
   "editor:fold-all": [
@@ -84,16 +66,16 @@
         "Mod",
         "Shift"
       ],
-      "key": "S"
+      "key": ","
     }
   ],
-  "workspace:export-pdf": [
+  "editor:unfold-all": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "P"
+      "key": "."
     }
   ]
 }
