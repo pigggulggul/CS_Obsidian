@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Network/네트워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ffa27295e42dd4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,10 +177,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "56740bda64549f88",
+  "active": "9ffa27295e42dd4e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Network/네트워크.md",
+    "Network/노드.md",
+    "Network/Network.md",
+    "Network",
     "Context/spacesLastSync.log",
-    "Context",
-    "README.md"
+    "Context"
   ]
 }
