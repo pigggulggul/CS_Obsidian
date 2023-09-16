@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a87c183dc04446cf",
+        "id": "0d3a949215969031",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0c984e752adbb5",
+            "id": "03fca79c734eb030",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,13 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec0c984e752adbb5",
+  "active": "03fca79c734eb030",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "Network/네트워크.md",
     "Network/노드.md",
-    "README.md",
+    "Network/네트워크.md",
     "Network/Network.md",
+    "무제 파일.md",
+    "README.md",
     "Network",
     "무제 파일.canvas",
     "Context/spacesLastSync.log",
