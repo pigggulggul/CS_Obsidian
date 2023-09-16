@@ -145,14 +145,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1c5c1e5409eee0c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +175,8 @@
   "active": "b0e9798b38c74c42",
   "lastOpenFiles": [
     "Network/2계층 데이터링크.md",
-    "Network/3계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/3계층 데이터링크.md",
     "Network/네트워크 포괄.md",
     "Network/context.mdb",
     "Network/Network.md",
