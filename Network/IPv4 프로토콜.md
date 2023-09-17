@@ -70,6 +70,6 @@ IPv4 프로토콜 + Data 가 11920 bytes를 보낼려고 하고 MTU가 3300byte�
 | MF  | Offset | Data |
 | 0   | 1230   | 2140 |
 
-Offset은 Data에서 8로 나눈다.
+Offset은 Data에서 8로 나눈다. 마지막 MF은 0으로 더이상 데이터가 없다는걸 말해준다. 위의 과정에서 각자 IP 프로토콜이 달려있고 Flag랑 Offset값 은 다르지만 ID값은 같다
 
 [[3계층 데이터링크]]
