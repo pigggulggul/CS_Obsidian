@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/ARP 프로토콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 265.5
   },
   "right": {
     "id": "5686ce591d90880b",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/ARP 프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/ARP 프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
+                "file": "Network/ARP 프로토콜.md"
               }
             }
           },
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,17 +174,18 @@
   },
   "active": "b0e9798b38c74c42",
   "lastOpenFiles": [
-    "Network/3계층 데이터링크.md",
     "Network/네트워크 포괄.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/context.mdb",
     "Network/IPv4 프로토콜.md",
-    "Network/노드.md",
+    "Network/context.mdb",
     "Network/Network.md",
+    "Network/ARP 프로토콜.md",
+    "Network/3계층 데이터링크.md",
+    "Network/2계층 데이터링크.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/노드.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "2023-09-17.md",
-    "Network/2계층 데이터링크.md",
     "네트워크 모델 (TCP/IP).md",
     "네트워크 모델 (TCP/네트워크 모델 (TCP.md",
     "네트워크 모델 (TCP",
