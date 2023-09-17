@@ -25,8 +25,21 @@ D는 224.0.0.0~ 239~~~ 앞의 1110이 네트워크 대역을 구별
 - 예전에는 . 을 기준으로 구분해서 192.168.0.1 이었으면 192 / 168 / 0 / 1 이렇게 
 
 ### IPv4 프로토콜의 구조
-![![Network/#^Table4]]Version : IP 프로토콜의 버전. 4나 6만 아는데 4만 온다고 생각하면 된다. IPv6은 아예 구조가 다르다.
-IHL : 프로토콜의 헤더의 길이고 보통 20이다. IP Option은 거의 안 붙는다. 하지만 20을 넣을 수 없으니까 4를 나눈 5라고 쓴다.  Version과 IHL은 4,5 가 온다고 보면 된다.
-Type of Service (TOS) : 서비스의 형식을 쓰지만 요즘은 사용하지 않아 0 으로 비운다.
-Total Length : 데이터의 전체의 길이
-Identification, IP Flag, Fragment Offset : 데이터를 큰 것을 보낼 때 잘게 잘라서 보내는데 이것을 알아볼 수 있게 하는 값. identification은 쪼개진 데이터에 아이디를 부여하여 합쳐질 수 있도록 도와줌. IP Flags 는 3비트로 되어있고 첫 번 째 값은 안 쓴다 (x). 두 번 째(D)와 세 번 째 (M) 
+|             |                            |                       |                                 |     |
+| ----------- | -------------------------- | --------------------- | ------------------------------- | --- |
+| Byte Offset | 0                          | 1                     | 2                               | 3   |
+| 0           | Version,IHL(Header Length) | Type of service (TOS) | Total Length                    | -   |
+| 4           | Identification             | -                     | IP Flags x D M, Fragment Offset | -   |
+| 8           | Time To Live(TTL)          | Protocol              | Header Checksum                 | -   |
+| 12          | Source Address             | -                     | -                               | -   |
+| 16          | Destination Address        | -                     | -                               | -   |
+| 20          | IP Option                  | -                     | -                               | -   |
+
+**Version** : IP 프로토콜의 버전. 4나 6만 아는데 4만 온다고 생각하면 된다. IPv6은 아예 구조가 다르다.
+**IHL** : 프로토콜의 헤더의 길이고 보통 20이다. IP Option은 거의 안 붙는다. 하지만 20을 넣을 수 없으니까 4를 나눈 5라고 쓴다.  Version과 IHL은 4,5 가 온다고 보면 된다.
+**Type of Service (TOS)** : 서비스의 형식을 쓰지만 요즘은 사용하지 않아 0 으로 비운다.
+**Total Length** : 데이터의 전체의 길이
+**Identification, IP Flag, Fragment Offset** : 데이터를 큰 것을 보낼 때 잘게 잘라서 보내는데 이것을 알아볼 수 있게 하는 값. identification은 쪼개진 데이터에 아이디를 부여하여 합쳐질 수 있도록 도와줌. IP Flags 는 3비트로 되어있고 첫 번 째 값은 안 쓴다 (x). 두 번 째(Dont fragment)는 데이터를 안 쪼개서 보내겠다는 뜻 (이것도 안 쓴다)
+와 세 번 째 (M)는 조각화를 보낼 때 뒤에 데이터가 더 있다고 1로 알려주는 것. Fragment Offset은 13비트로 데이터를 복구 할 때 데이터 순서가 있기에 순서를 알아볼 수 있게 Offset을 지정. 시작지점에서 떨어진 값 만큼 Offset을 지정한다.
+**TTL** : 네트워크 데이터가 잘못 보낼 때 무한루프가 일어날 수 있기에 데이터가 살아있는 시간을 정한다. 라우터 장비를 이동 할 때 마다 1씩 준다.
+**Protocol** : 이더넷의 똑같은 부분. 상위 프로토콜이 뭔지 알려준다. ICMP(3계층, 1), TCP(4계층, 0 6), UDP(4계층 )
