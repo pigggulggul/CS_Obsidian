@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/3계층 데이터링크.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "5686ce591d90880b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/3계층 데이터링크.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/3계층 데이터링크.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/3계층 데이터링크.md"
+                "file": "Network/네트워크 모델 ( TCP, IP ).md"
               }
             }
           },
@@ -155,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +173,17 @@
   },
   "active": "b0e9798b38c74c42",
   "lastOpenFiles": [
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/3계층 데이터링크.md",
-    "Network/노드.md",
     "Network/네트워크 포괄.md",
-    "Network/2계층 데이터링크.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/context.mdb",
+    "Network/IPv4 프로토콜.md",
+    "Network/노드.md",
     "Network/Network.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "2023-09-17.md",
+    "Network/2계층 데이터링크.md",
     "네트워크 모델 (TCP/IP).md",
     "네트워크 모델 (TCP/네트워크 모델 (TCP.md",
     "네트워크 모델 (TCP",
