@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,15 +172,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b0e9798b38c74c42",
+  "active": "99d3f8678694f725",
   "lastOpenFiles": [
+    "Network/네트워크 포괄.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/2계층 데이터링크.md",
     "Network/Network.md",
     "Network/ICMP 프로토콜.md",
     "Network/3계층 데이터링크.md",
     "Network/IPv4 프로토콜.md",
-    "Network/네트워크 포괄.md",
     "Network/데이터 통신.md",
     "Network/ARP 프로토콜.md",
     "Network/context.mdb",
