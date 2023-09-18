@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a3542cdb10303f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 포괄.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,9 +185,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "99d3f8678694f725",
+  "active": "3a3542cdb10303f0",
   "lastOpenFiles": [
     "Network/네트워크 포괄.md",
+    "conflict-files-obsidian-git.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/2계층 데이터링크.md",
     "Network/Network.md",
@@ -192,7 +206,6 @@
     "네트워크 모델 (TCP/네트워크 모델 (TCP.md",
     "네트워크 모델 (TCP",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Network",
     "Context/spacesLastSync.log",
     "Context"
