@@ -41,7 +41,8 @@
       "네트워크 모델 (TCP",
       "네트워크 모델 (TCP",
       "네트워크 모델 (TCP",
-      "Network"
+      "Network",
+      "CS_Obsidian/Network"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695079939808,
+  "spacesAutoBackupLast": 1695111103643,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
