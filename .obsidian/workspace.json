@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network/네트워크 포괄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network/네트워크 포괄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Network/네트워크 포괄.md"
               }
             }
           },
@@ -156,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df0785baf76ffaf5",
+  "active": "bee9872aa7380229",
   "lastOpenFiles": [
-    "Network/네트워크 포괄.md",
     "conflict-files-obsidian-git.md",
+    "Network/네트워크 포괄.md",
     "Network/context.mdb",
     "Network/ARP 프로토콜.md",
     "Network/네트워크.md",
