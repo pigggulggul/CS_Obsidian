@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/2계층 데이터링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 포괄.md"
+                "file": "Network/2계층 데이터링크.md"
               }
             }
           },
@@ -172,15 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bee9872aa7380229",
+  "active": "605b3a4d76ba0cfc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
+    "Network/2계층 데이터링크.md",
+    "conflict-files-obsidian-git.md",
     "Network/context.mdb",
     "Network/ARP 프로토콜.md",
     "Network/네트워크.md",
     "Network/데이터 통신.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/UDP 프로토콜.md",
     "Network/TCP 프로토콜.md",
     "Network/IPv4 프로토콜.md",
@@ -188,7 +189,6 @@
     "Network/7계층 HTTP.md",
     "Network/4계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
-    "Network/2계층 데이터링크.md",
     "Network/노드.md",
     "Network/Network.md",
     "무제 파일.md",
