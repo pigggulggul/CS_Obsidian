@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3a949215969031",
+        "id": "738fa85517bd8ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "605b3a4d76ba0cfc",
+            "id": "0906750af0091d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/2계층 데이터링크.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network/2계층 데이터링크.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "605b3a4d76ba0cfc",
+  "active": "0906750af0091d7a",
   "lastOpenFiles": [
     "Network/3계층 데이터링크.md",
     "Network/2계층 데이터링크.md",
