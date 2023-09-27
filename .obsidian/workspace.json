@@ -154,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56740bda64549f88",
+  "active": "bee9872aa7380229",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Context/Context.md",
