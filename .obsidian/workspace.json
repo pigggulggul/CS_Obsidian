@@ -35,9 +35,11 @@
             "id": "9955e3a3be1a73ec",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Context"
+                "file": "Network/네트워크 포괄.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network/네트워크 포괄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network/네트워크 포괄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Network/네트워크 포괄.md"
+              }
             }
           },
           {
@@ -191,8 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bee9872aa7380229",
+  "active": "9955e3a3be1a73ec",
   "lastOpenFiles": [
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "conflict-files-obsidian-git.md",
     "Context/Context.md",
     "Network/네트워크 포괄.md",
@@ -206,7 +213,6 @@
     "Network/ARP 프로토콜.md",
     "Network/ICMP 프로토콜.md",
     "Network/IPv4 프로토콜.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/context.mdb",
     "Network/네트워크.md",
     "Network/데이터 통신.md",
