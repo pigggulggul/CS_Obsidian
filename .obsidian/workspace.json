@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,6 +175,8 @@
   },
   "active": "df0785baf76ffaf5",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "Network/UDP 프로토콜.md",
     "Network/4계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
@@ -194,8 +197,6 @@
     "무제 파일.md",
     "README.md",
     "Network",
-    "무제 파일.canvas",
-    "Context/spacesLastSync.log",
-    "Context"
+    "무제 파일.canvas"
   ]
 }
