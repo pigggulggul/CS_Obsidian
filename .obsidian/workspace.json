@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Socket.md",
+                "file": "Network/MAC, IP, Port 번호 식별자.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Socket.md",
+                "file": "Network/MAC, IP, Port 번호 식별자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Socket.md",
+                "file": "Network/MAC, IP, Port 번호 식별자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Socket.md"
+                "file": "Network/MAC, IP, Port 번호 식별자.md"
               }
             }
           },
@@ -199,8 +199,9 @@
   },
   "active": "9955e3a3be1a73ec",
   "lastOpenFiles": [
-    "Network/3계층 데이터링크.md",
     "Network/Socket.md",
+    "Network/MAC, IP, Port 번호 식별자.md",
+    "Network/3계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "conflict-files-obsidian-git.md",
