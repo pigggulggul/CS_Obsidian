@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/4계층 데이터링크.md",
+                "file": "Network/Port.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/4계층 데이터링크.md",
+                "file": "Network/Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/4계층 데이터링크.md",
+                "file": "Network/Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/4계층 데이터링크.md"
+                "file": "Network/Port.md"
               }
             }
           },
@@ -172,11 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5568063ffb85dc16",
+  "active": "56740bda64549f88",
   "lastOpenFiles": [
+    "Network/MAC, IP, Port 번호 식별자.md",
+    "Network/Port.md",
+    "Network/4계층 데이터링크.md",
     "Network/TCP 프로토콜.md",
     "Network/UDP 프로토콜.md",
-    "Network/4계층 데이터링크.md",
     "Network/ARP 프로토콜.md",
     "Network/라우터.md",
     "Network/데이터 통신.md",
@@ -187,7 +189,6 @@
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/Socket.md",
-    "Network/MAC, IP, Port 번호 식별자.md",
     "Network/Host, Switch, Network.md",
     "MAC, IP, Port 번호 식별자.md",
     "README.md",
