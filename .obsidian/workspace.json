@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93cb934f1de79180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/TCP 프로토콜.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/TCP 프로토콜.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/TCP 프로토콜.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -159,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df0785baf76ffaf5",
+  "active": "93cb934f1de79180",
   "lastOpenFiles": [
+    "Network/TCP 프로토콜.md",
+    "conflict-files-obsidian-git.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/UDP 프로토콜.md",
@@ -186,11 +200,9 @@
     "Network/2계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
-    "conflict-files-obsidian-git.md",
     "Network/context.mdb",
     "Network/네트워크.md",
     "Network/데이터 통신.md",
-    "Network/TCP 프로토콜.md",
     "Network/7계층 HTTP.md",
     "Network/노드.md",
     "Network/Network.md",
