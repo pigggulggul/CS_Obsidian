@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/2계층 데이터링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
+                "file": "Network/2계층 데이터링크.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "56261e70f392c429",
   "lastOpenFiles": [
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/3계층 데이터링크.md",
     "Network/7계층 HTTP.md",
@@ -224,7 +225,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Network/Socket.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "conflict-files-obsidian-git.md",
     "Context/Context.md",
     "Network/TCP 프로토콜.md",
