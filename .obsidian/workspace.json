@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "738fa85517bd8ed2",
+        "id": "f5b46d73561eea25",
         "type": "tabs",
         "children": [
           {
-            "id": "0906750af0091d7a",
+            "id": "5568063ffb85dc16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/TCP 프로토콜.md",
+                "file": "Network/라우터.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/TCP 프로토콜.md",
+                "file": "Network/라우터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/TCP 프로토콜.md",
+                "file": "Network/라우터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/TCP 프로토콜.md"
+                "file": "Network/라우터.md"
               }
             }
           },
@@ -172,13 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0906750af0091d7a",
+  "active": "5568063ffb85dc16",
   "lastOpenFiles": [
-    "README.md",
+    "Network/2계층 데이터링크.md",
+    "Network/라우터.md",
     "MAC, IP, Port 번호 식별자.md",
     "Network/3계층 데이터링크.md",
-    "Network/데이터 통신.md",
     "Network/TCP 프로토콜.md",
+    "README.md",
+    "Network/데이터 통신.md",
     "conflict-files-obsidian-git.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -187,7 +189,6 @@
     "Network/ARP 프로토콜.md",
     "Network/ICMP 프로토콜.md",
     "Network/IPv4 프로토콜.md",
-    "Network/2계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/context.mdb",
