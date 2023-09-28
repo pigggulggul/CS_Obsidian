@@ -13,4 +13,6 @@ User mode에서 Kerner mode로 바뀌면 데이터 단위가 바뀌는데 L4: Se
 ![](https://i.imgur.com/j052nEG.png)
 
 
-어플리케이션 프로세스가 파일에 대고 스트림 데이터를 write하면 커널로 내려가서 TCP를 만나면 Stream 데이터가 Segment화된다 (세그멘테이션). 분해(자르기)라고 이해하면 쉽다. Segment의 길이의 최대 길이는 MSS (Maximum Segment Size). 이것은 패킷의 최대 크기에 영향을 받는다.(MTU).
+어플리케이션 프로세스가 파일에 대고 스트림 데이터를 write한다. 네트워크로 보낼때는 커널로 내려가서 TCP를 만나면 Stream 데이터가 Segment화된다 (세그멘테이션). 분해(자르기)라고 이해하면 쉽다. Segment를 인터넷 환경에서 전송 가능한 형태로 포장한 것을 Pack이라한다. 패킷의 길이의 최대 크기(MTU)는 1500bytes. Segment의 길이의 최대 길이는 MSS (Maximum Segment Size). 이것은 패킷의 최대 크기에 영향을 받는다.(MTU). MSS는 MTU보다 더 작다. Pack을 실어 넣을때는 Frame데이터에 넣는다.
+
+![](https://i.imgur.com/Xww4zBd.png)
