@@ -12,7 +12,11 @@ Internet = Router의 집합체이고 Router는 L3 스위칭을 한다.
 
 ![](https://i.imgur.com/57I98R5.jpg)
 
+
 Network는 Switch의 집합체이다.  보통 구성도를 그릴 때 큰 점은 NIC이다. 
-Network는 이용주체인 End-Point가 네트워크에서 처음 만날 때 먼저 만나는 스위치가 L2 Access라고 한다. L2 Distribution은 스위치를 위한 스위치 이다. L2 Access에서 L2 Distribution으로 갈 때 상위 계층 스위치로 연결되는 라인을 up-link라고 부른다. (Link-up은 LAN케이블을 연결하면 녹색불이 들어오는(연결), Link-down은 LAN케이블이 빠졌다. )
+Network는 이용주체인 End-Point가 네트워크에서 처음 만날 때 먼저 만나는 스위치가 L2 Access라고 한다. L2 Distribution은 스위치를 위한 스위치 이다. L2 Access에서 L2 Distribution으로 갈 때 상위 계층 스위치로 연결되는 라인을 up-link라고 부른다. (Link-up은 LAN케이블을 연결하면 녹색불이 들어오는(연결), Link-down은 LAN케이블이 빠짐. )
+
+![](https://i.imgur.com/Qvy9Fx2.png)
+
 
 [[라우터]]
