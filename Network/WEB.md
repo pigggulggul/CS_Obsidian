@@ -13,7 +13,7 @@
 ![](https://i.imgur.com/72JxJML.png)
 
 HTTP는 초기 1.0부터 나와서 1.1(많이쓰임), 2.0나오고 지금 3.0까지 나왔다.
-1.1가 많이 사용되는데 HTTP는 TCP/IP 통신을 전제로 하였다. Web Client와 Web Server가 TCP/IP이 연결되어 있다는것을 가정한다. HTTP 통신의 가장 큰 특징은 Stateless(중요)이다. 근데 TCP/IP는 연결(상태 개념을 포함)인데 HTTP는 상태개념이 없다. 처음에 만든 브라우저는 URL(Uniform Resourse Location)을 치고 HTML문서(Resource)를 가지고온다. IP주소(DNS서버를 통해 URL을 보고 IP를 알아와줌)를 통해 TCP/IP를 연결하고 그때부터 HTTP가 작동하는데 http.request.method=Get으로 리소스를 달라고 보내고 http.reponse로 HTML 문서를 받는다. GET은 정보를 읽는 read고 url에서 입력한 정보대로 서버에 접속한다. html문서는 태그가 들어있어서 화면에 html을 읽는데 구문분석(파싱)을 하고 렌더링을 하여 화면에 띄워준다. 그래서 브라우저를 이루는 핵심 요소는 1.구문분석기 2.렌더링엔진 3.스크립트엔진(밑에 나옴)
+초기 HTTP는 TCP/IP 통신을 전제로 하였다. Web Client와 Web Server가 TCP/IP이 연결되어 있다는것을 가정한다. HTTP 통신의 가장 큰 특징은 Stateless(중요)이다. 근데 TCP/IP는 연결(상태 개념을 포함)인데 HTTP는 상태개념이 없다. 처음에 만든 브라우저는 URL(Uniform Resourse Location)을 치고 HTML문서(Resource)를 가지고온다. IP주소(DNS서버를 통해 URL을 보고 IP를 알아와줌)를 통해 TCP/IP를 연결하고 그때부터 HTTP가 작동하는데 http.request.method=Get으로 리소스를 달라고 보내고 http.reponse로 HTML 문서를 받는다. GET은 정보를 읽는 read고 url에서 입력한 정보대로 서버에 접속한다. html문서는 태그가 들어있어서 화면에 html을 읽는데 구문분석(파싱)을 하고 렌더링을 하여 화면에 띄워준다. 그래서 브라우저를 이루는 핵심 요소는 1.구문분석기 2.렌더링엔진 3.스크립트엔진(밑에 나옴)
 
 
 
