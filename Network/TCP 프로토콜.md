@@ -88,4 +88,4 @@ Server(프로세스)쪽에서는 소켓(파일)에 대고 RW(I/O)를 할 수 있
 ![](https://i.imgur.com/IIEFdyW.png)
 
 ##### Web 클라이언트 상황
-PC 쪽에서도 NIC가 있고 
+PC 쪽에서도 NIC가 있고 트럭(frame)이 왔을 때 트럭을 
