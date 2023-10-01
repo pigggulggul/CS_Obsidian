@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP 프로토콜.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP 프로토콜.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP 프로토콜.md",
+                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP 프로토콜.md"
+                "file": "Network/네트워크 모델 ( TCP, IP ).md"
               }
             }
           },
@@ -211,9 +211,9 @@
   },
   "active": "56261e70f392c429",
   "lastOpenFiles": [
-    "Network/WEB.md",
-    "Network/HTTP 프로토콜.md",
     "Network/네트워크 포괄.md",
+    "Network/HTTP 프로토콜.md",
+    "Network/WEB.md",
     "Network/DNS.md",
     "Network/3계층 데이터링크.md",
     "Network/TCP 프로토콜.md",
