@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/HTTP 프로토콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/HTTP 프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/HTTP 프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 포괄.md"
+                "file": "Network/HTTP 프로토콜.md"
               }
             }
           },
@@ -209,8 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bee9872aa7380229",
+  "active": "56261e70f392c429",
   "lastOpenFiles": [
+    "Network/WEB.md",
+    "Network/HTTP 프로토콜.md",
+    "Network/네트워크 포괄.md",
     "Network/DNS.md",
     "Network/3계층 데이터링크.md",
     "Network/TCP 프로토콜.md",
@@ -218,14 +221,12 @@
     "Network/Socket.md",
     "Network/Switch.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/네트워크 포괄.md",
     "Network/라우터.md",
     "Network/IPv4 프로토콜.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "Network/Host, Switch, Network.md",
     "Network/2계층 데이터링크.md",
     "Network/ICMP 프로토콜.md",
-    "Network/WEB.md",
     "Network/Port.md",
     "Network/UDP 프로토콜.md",
     "Network/ARP 프로토콜.md",
@@ -239,7 +240,6 @@
     "Network/네트워크.md",
     "Network/노드.md",
     "Network/Network.md",
-    "무제 파일.md",
     "Network",
     "무제 파일.canvas"
   ]
