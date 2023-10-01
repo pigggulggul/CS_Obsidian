@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 포괄.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 포괄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 포괄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
+                "file": "Network/네트워크 포괄.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "56261e70f392c429",
   "lastOpenFiles": [
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/HTTP 프로토콜.md",
     "Network/WEB.md",
@@ -220,7 +221,6 @@
     "Network/데이터 통신.md",
     "Network/Socket.md",
     "Network/Switch.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/라우터.md",
     "Network/IPv4 프로토콜.md",
     "Network/MAC, IP, Port 번호 식별자.md",
