@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "CS_Obsidian": [
-      "Network",
       "Network"
     ]
   },
@@ -75,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696146427597,
+  "spacesAutoBackupLast": 1696149118148,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
