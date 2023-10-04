@@ -6,6 +6,9 @@ HTTP의 속성으로는 GET __ __ /index.html
 html은 hyper text markup language. 하이퍼텍스트를 표현하기 위한 언어.
 html 파일을 주고 받을 수 있는 파일.
 
+##### HTTPS 프로토콜
+
+
 #### url, uri
 url에서 l은 locator. 인터넷 주소를 말함.
 uri에서 i는 identifier 그 주소의 끝에 .png, .html같은 리소스를 식별하는 것. 
