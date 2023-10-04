@@ -213,6 +213,7 @@
   "lastOpenFiles": [
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
+    "Network/HTTP(S) 프로토콜.md",
     "Network/2계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
     "Network/WEB.md",
@@ -222,7 +223,6 @@
     "Network/Port.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "Network/Socket.md",
-    "Network/HTTP(S) 프로토콜.md",
     "Network/데이터 통신.md",
     "문제.md",
     "Network/Host, Switch, Network.md",
