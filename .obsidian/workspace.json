@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/WEB.md",
+                "file": "Network/2계층 데이터링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/WEB.md",
+                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/WEB.md",
+                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/WEB.md"
+                "file": "Network/2계층 데이터링크.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "56261e70f392c429",
   "lastOpenFiles": [
-    "Network/DNS.md",
+    "Network/3계층 데이터링크.md",
     "Network/WEB.md",
+    "Network/DNS.md",
     "Network/Switch.md",
     "Network/라우터.md",
     "Network/Port.md",
@@ -226,7 +227,6 @@
     "문제.md",
     "Network/Host, Switch, Network.md",
     "Network/ICMP 프로토콜.md",
-    "Network/3계층 데이터링크.md",
     "Network/TCP 프로토콜.md",
     "Network/IPv4 프로토콜.md",
     "Network/UDP 프로토콜.md",
