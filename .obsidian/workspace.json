@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56261e70f392c429",
+  "active": "df0785baf76ffaf5",
   "lastOpenFiles": [
+    "desktop.ini",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/HTTP(S) 프로토콜.md",
@@ -239,7 +239,6 @@
     "Context/Context.md",
     "Network/context.mdb",
     "Network/네트워크.md",
-    "Network/노드.md",
     "Network",
     "무제 파일.canvas"
   ]
