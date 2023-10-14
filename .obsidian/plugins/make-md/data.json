@@ -41,7 +41,9 @@
       "네트워크 모델 (TCP",
       "네트워크 모델 (TCP",
       "네트워크 모델 (TCP",
-      "Network"
+      "Network",
+      "F",
+      "F"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696954928849,
+  "spacesAutoBackupLast": 1697293829999,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

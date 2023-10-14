@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/MAC, IP, Port 번호 식별자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56261e70f392c429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/Host, Switch, Network.md",
+                "file": "Network/FW(방화벽).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Host, Switch, Network.md",
+                "file": "Network/FW(방화벽).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Host, Switch, Network.md",
+                "file": "Network/FW(방화벽).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Host, Switch, Network.md"
+                "file": "Network/FW(방화벽).md"
               }
             }
           },
@@ -209,9 +197,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56261e70f392c429",
+  "active": "56740bda64549f88",
   "lastOpenFiles": [
+    "Network/Host, Switch, Network.md",
+    "Network/FW(방화벽).md",
     "Network/MAC, IP, Port 번호 식별자.md",
+    "F/W(방화벽).md",
+    "F",
+    "Network/2계층 데이터링크.md",
+    "F/F.md",
     "Network/WEB.md",
     "Network/DNS.md",
     "Network/UDP 프로토콜.md",
@@ -221,7 +215,6 @@
     "desktop.ini",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
-    "Network/2계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
     "Network/Switch.md",
     "Network/라우터.md",
@@ -229,7 +222,6 @@
     "Network/Socket.md",
     "Network/데이터 통신.md",
     "문제.md",
-    "Network/Host, Switch, Network.md",
     "Network/ICMP 프로토콜.md",
     "Network/TCP 프로토콜.md",
     "Network/7계층 HTTP.md",
@@ -237,9 +229,7 @@
     "Context/spacesLastSync.log",
     "Context",
     "conflict-files-obsidian-git.md",
-    "Context/Context.md",
     "Network/context.mdb",
-    "Network/네트워크.md",
     "Network",
     "무제 파일.canvas"
   ]
