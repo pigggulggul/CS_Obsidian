@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/네트워크 포괄.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/네트워크 포괄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/네트워크 포괄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/2계층 데이터링크.md"
+                "file": "Network/네트워크 포괄.md"
               }
             }
           },
@@ -199,12 +199,12 @@
   },
   "active": "9955e3a3be1a73ec",
   "lastOpenFiles": [
+    "Network/2계층 데이터링크.md",
     "Network/FW(방화벽).md",
     "Network/Host, Switch, Network.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "F/W(방화벽).md",
     "F",
-    "Network/2계층 데이터링크.md",
     "F/F.md",
     "Network/WEB.md",
     "Network/DNS.md",
