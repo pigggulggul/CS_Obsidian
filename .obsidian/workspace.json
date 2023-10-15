@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
-                "mode": "source",
+                "file": "Network/2계층 데이터링크.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
+                "file": "Network/2계층 데이터링크.md"
               }
             }
           },
@@ -211,7 +211,10 @@
   },
   "active": "ff0a02af4dfbff1a",
   "lastOpenFiles": [
+    "Network/3계층 데이터링크.md",
+    "Network/라우터.md",
     "Network/2계층 데이터링크.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/FW(방화벽).md",
     "Network/Host, Switch, Network.md",
     "Network/MAC, IP, Port 번호 식별자.md",
@@ -225,11 +228,8 @@
     "Network/IPv4 프로토콜.md",
     "Network/HTTP(S) 프로토콜.md",
     "desktop.ini",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
-    "Network/3계층 데이터링크.md",
     "Network/Switch.md",
-    "Network/라우터.md",
     "Network/Port.md",
     "Network/Socket.md",
     "Network/데이터 통신.md",
