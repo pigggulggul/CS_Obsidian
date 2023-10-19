@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/라우터.md",
                 "mode": "preview",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/라우터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/라우터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/2계층 데이터링크.md"
+                "file": "Network/라우터.md"
               }
             }
           },
@@ -211,9 +211,9 @@
   },
   "active": "ff0a02af4dfbff1a",
   "lastOpenFiles": [
+    "Network/2계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
     "Network/라우터.md",
-    "Network/2계층 데이터링크.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/FW(방화벽).md",
     "Network/Host, Switch, Network.md",
