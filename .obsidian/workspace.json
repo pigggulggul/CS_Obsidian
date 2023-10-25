@@ -185,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network/HTTP(S) 프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network/HTTP(S) 프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Network/HTTP(S) 프로토콜.md"
               }
             }
           },
@@ -261,10 +263,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bee9872aa7380229",
+  "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "Network/HTTP(S) 프로토콜.md",
     "conflict-files-obsidian-git.md",
+    "Network/HTTP(S) 프로토콜.md",
     "Network/Port.md",
     "Network/FTP.md",
     "Network/데이터 통신.md",
