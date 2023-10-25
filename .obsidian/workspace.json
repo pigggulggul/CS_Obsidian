@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP(S) 프로토콜.md",
+                "file": "Network/데이터 통신.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP(S) 프로토콜.md",
+                "file": "Network/데이터 통신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP(S) 프로토콜.md",
+                "file": "Network/데이터 통신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP(S) 프로토콜.md"
+                "file": "Network/데이터 통신.md"
               }
             }
           },
@@ -265,8 +265,8 @@
   },
   "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "Network/FTP.md",
     "Network/HTTP(S) 프로토콜.md",
+    "Network/FTP.md",
     "conflict-files-obsidian-git.md",
     "Network/FW(방화벽).md",
     "Network/Port.md",
