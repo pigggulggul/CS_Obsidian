@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/SSL.md",
+                "file": "Network/SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/SSL.md",
+                "file": "Network/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/SSL.md",
+                "file": "Network/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/SSL.md"
+                "file": "Network/SMTP.md"
               }
             }
           },
@@ -223,9 +223,10 @@
   },
   "active": "fc6fca2583797494",
   "lastOpenFiles": [
+    "Network/SSL.md",
+    "Network/SMTP.md",
     "Network/Telnet.md",
     "Network/SSH.md",
-    "Network/SSL.md",
     "README.md",
     "Network/Port.md",
     "Network/FTP.md",
@@ -250,7 +251,6 @@
     "desktop.ini",
     "Network/네트워크 포괄.md",
     "Network/Switch.md",
-    "Network/데이터 통신.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
