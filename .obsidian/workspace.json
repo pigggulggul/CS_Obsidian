@@ -265,10 +265,11 @@
   },
   "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Network/HTTP(S) 프로토콜.md",
-    "Network/Port.md",
     "Network/FTP.md",
+    "Network/HTTP(S) 프로토콜.md",
+    "conflict-files-obsidian-git.md",
+    "Network/FW(방화벽).md",
+    "Network/Port.md",
     "Network/데이터 통신.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/2계층 데이터링크.md",
@@ -292,7 +293,6 @@
     "Network/4계층 데이터링크.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Context/Context.md",
     "Network/context.mdb",
     "Network",
     "무제 파일.canvas"
