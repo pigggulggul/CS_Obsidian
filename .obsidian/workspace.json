@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc6fca2583797494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/Socket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "549f50873851bd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/라우터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/라우터.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/라우터.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -209,13 +233,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff0a02af4dfbff1a",
+  "active": "549f50873851bd30",
   "lastOpenFiles": [
+    "Network/Socket.md",
+    "conflict-files-obsidian-git.md",
+    "Network/FW(방화벽).md",
+    "Network/FTP.md",
+    "Network/라우터.md",
     "Network/2계층 데이터링크.md",
     "Network/3계층 데이터링크.md",
-    "Network/라우터.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/FW(방화벽).md",
     "Network/Host, Switch, Network.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "F/W(방화벽).md",
@@ -231,16 +258,13 @@
     "Network/네트워크 포괄.md",
     "Network/Switch.md",
     "Network/Port.md",
-    "Network/Socket.md",
     "Network/데이터 통신.md",
     "문제.md",
     "Network/ICMP 프로토콜.md",
     "Network/TCP 프로토콜.md",
     "Network/7계층 HTTP.md",
-    "Network/4계층 데이터링크.md",
     "Context/spacesLastSync.log",
     "Context",
-    "conflict-files-obsidian-git.md",
     "Network/context.mdb",
     "Network",
     "무제 파일.canvas"
