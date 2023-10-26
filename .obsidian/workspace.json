@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/FW(방화벽).md",
+                "file": "Network/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/FW(방화벽).md",
+                "file": "Network/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/FW(방화벽).md",
+                "file": "Network/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/FW(방화벽).md"
+                "file": "Network/SSH.md"
               }
             }
           },
@@ -265,6 +265,8 @@
   },
   "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
+    "Network/DNS.md",
+    "Network/FW(방화벽).md",
     "Network/데이터 통신.md",
     "Network/Telnet.md",
     "Network/SSL.md",
@@ -273,7 +275,6 @@
     "Network/HTTP(S) 프로토콜.md",
     "Network/FTP.md",
     "conflict-files-obsidian-git.md",
-    "Network/FW(방화벽).md",
     "Network/Port.md",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/2계층 데이터링크.md",
@@ -284,7 +285,6 @@
     "Network/IPv4 프로토콜.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "Network/HTTP 프로토콜.md",
-    "Network/DNS.md",
     "Network/Switch.md",
     "Network/WEB.md",
     "Network/라우터.md",
