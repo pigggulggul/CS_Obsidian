@@ -138,4 +138,29 @@ Access Token 과 Refresh Token은 둘다 똑같은 JWT이다. 다만 토큰이 �
 - Access Token은 발급된 이후, 서버에 저장되지 않고 토큰 자체로 검증을 하며 사용자 권한을 인증하기 떄문에, Access Token이 탈취되면 토큰이 만료되기 전 까지, 토큰을 획득한 사람은 누구나 권한 접근이 가능
 - JWT는 발급한 후 삭제가 불가능하기 때문에, 접근에 관여하는 토큰에 **유효시간**을 부여하는 식으로 탈취 문제에 대해 대응을 하여야 하지만 유효기간이 짧은 Token의 경우 그만큼 사용자는 로그인을 자주 해서 새롭게 Token을 발급받아야 하므로 불편하다는 단점이 있음
 - 이때 “그러면 유효기간을 짧게 하면서  좋은 방법이 있지는 않을까?”라는 질문의 답이 바로 **Refresh Token**이다.
-- 
+- 서버는 로그인을 성공시키면서 클라이언트에게 **Access Token과 Refresh Token**을 동시에 발급한다.  서버는 데이터베이스에 Refresh Token을 저장하고, 클라이언트는 Access Token과 Refresh Token을 쿠키, 세션 혹은 웹스토리지에 저장하고 요청이 있을때마다 이 둘을 헤더에 담아서 보낸다.
+- 이 Refresh Token은 긴 유효기간을 가지면서, Access Token이 만료됐을 때 새로 재발급해주는 열쇠가 된다. 따라서 만일 만료된 Access Token을 서버에 보내면, 서버는 같이 보내진 Refresh Token을  DB에 있는 것과 비교해서 일치하면 다시 Access Token을 재발급하는 간단한 원리이다. 그리고 사용자가 **로그아웃을 하면 저장소에서 Refresh Token을 삭제**하여 사용이 불가능하도록 하고 새로 로그인하면 서버에서 다시 재발급해서 DB에 저장한다.
+
+![](https://i.imgur.com/V4sfPc2.jpg)
+(Refresh 토큰 인증 과정)
+1. 사용자가 ID , PW를 통해 로그인.
+
+2. 서버에서는 회원 DB에서 값을 비교
+
+3~4. 로그인이 완료되면 Access Token, Refresh Token을 발급한다. 이때 회원DB에도 Refresh Token을 저장해둔다.
+
+5. 사용자는 Refresh Token은 안전한 저장소에 저장 후, Access Token을 헤더에 실어 요청을 보낸다.
+
+6~7. Access Token을 검증하여 이에 맞는 데이터를 보낸다.
+
+8. 시간이 지나 Access Token이 만료됐다.
+
+9. 사용자는 이전과 동일하게 Access Token을 헤더에 실어 요청을 보낸다.
+
+10~11. 서버는 Access Token이 만료됨을 확인하고 권한없음을 신호로 보낸다.
+
+12. 사용자는 Refresh Token과 Access Token을 함께 서버로 보낸다.
+
+13. 서버는 받은 Access Token이 조작되지 않았는지 확인한후, Refresh Token과 사용자의 DB에 저장되어 있던 Refresh Token을 비교한다. Token이 동일하고 유효기간도 지나지 않았다면 새로운 Access Token을 발급해준다.
+
+14. 서버는 새로운 Access Token을 헤더에 실어 다시 API 요청 응답을 진행한다.
