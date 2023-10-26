@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/SMTP.md",
+                "file": "Network/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/SMTP.md",
+                "file": "Network/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/SMTP.md",
+                "file": "Network/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/SMTP.md"
+                "file": "Network/SSH.md"
               }
             }
           },
@@ -223,8 +223,8 @@
   },
   "active": "fc6fca2583797494",
   "lastOpenFiles": [
-    "Network/SSL.md",
     "Network/SMTP.md",
+    "Network/SSL.md",
     "Network/Telnet.md",
     "Network/SSH.md",
     "README.md",
