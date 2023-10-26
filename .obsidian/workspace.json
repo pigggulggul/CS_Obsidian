@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9652b208757d57f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/HTTP(S) 프로토콜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9441813345232f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/JWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "682f7cdf110f8354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -143,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/SSH.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/SSH.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/SSH.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -221,18 +257,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc6fca2583797494",
+  "active": "682f7cdf110f8354",
   "lastOpenFiles": [
+    "Network/JWT.md",
+    "conflict-files-obsidian-git.md",
+    "Network/HTTP(S) 프로토콜.md",
+    "desktop.ini",
+    "Network/IPv4 프로토콜.md",
+    "Network/SSH.md",
     "Network/SMTP.md",
     "Network/SSL.md",
     "Network/Telnet.md",
-    "Network/SSH.md",
     "README.md",
     "Network/Port.md",
     "Network/FTP.md",
-    "Network/HTTP(S) 프로토콜.md",
     "Network/Socket.md",
-    "conflict-files-obsidian-git.md",
     "Network/FW(방화벽).md",
     "Network/라우터.md",
     "Network/2계층 데이터링크.md",
@@ -247,10 +286,7 @@
     "Network/DNS.md",
     "Network/UDP 프로토콜.md",
     "Network/ARP 프로토콜.md",
-    "Network/IPv4 프로토콜.md",
-    "desktop.ini",
     "Network/네트워크 포괄.md",
-    "Network/Switch.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
