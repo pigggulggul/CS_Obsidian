@@ -37,38 +37,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 포괄.md",
+                "file": "Network/MAC, IP, Port 번호 식별자.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff0a02af4dfbff1a",
+            "id": "7dc0b2fc94d90813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/라우터.md",
+                "file": "Network/ICMP 프로토콜.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc6fca2583797494",
+            "id": "62c3a9b2932146c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "6cd6fdc758d9c22a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c89a3fb6a9ec1b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/SSH.md",
+                "file": "Network/데이터 통신.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9652b208757d57f8",
+            "id": "e3da236c0f71d1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +98,7 @@
             }
           },
           {
-            "id": "9441813345232f94",
+            "id": "9e23ea08c0ba1a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -245,35 +263,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9441813345232f94",
+  "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Network/JWT.md",
-    "Network/HTTP(S) 프로토콜.md",
-    "desktop.ini",
-    "Network/IPv4 프로토콜.md",
     "Network/SSH.md",
-    "Network/SMTP.md",
-    "Network/SSL.md",
-    "Network/Telnet.md",
-    "README.md",
-    "Network/Port.md",
-    "Network/FTP.md",
-    "Network/Socket.md",
-    "Network/FW(방화벽).md",
-    "Network/라우터.md",
-    "Network/2계층 데이터링크.md",
-    "Network/3계층 데이터링크.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/Host, Switch, Network.md",
-    "Network/MAC, IP, Port 번호 식별자.md",
-    "F/W(방화벽).md",
-    "F",
-    "F/F.md",
-    "Network/WEB.md",
+    "Network/JWT.md",
     "Network/DNS.md",
-    "Network/UDP 프로토콜.md",
+    "Network/FW(방화벽).md",
+    "Network/데이터 통신.md",
+    "Network/Telnet.md",
+    "Network/SSL.md",
+    "Network/SMTP.md",
+    "Network/HTTP(S) 프로토콜.md",
+    "Network/FTP.md",
+    "conflict-files-obsidian-git.md",
+    "Network/Port.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/2계층 데이터링크.md",
+    "Network/ICMP 프로토콜.md",
+    "Network/3계층 데이터링크.md",
     "Network/ARP 프로토콜.md",
+    "Network/TCP 프로토콜.md",
+    "Network/IPv4 프로토콜.md",
+    "Network/MAC, IP, Port 번호 식별자.md",
+    "Network/HTTP 프로토콜.md",
+    "Network/Switch.md",
+    "Network/WEB.md",
+    "Network/라우터.md",
+    "Network/Socket.md",
     "Network/네트워크 포괄.md",
     "Context/spacesLastSync.log",
     "Context",
