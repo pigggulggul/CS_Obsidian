@@ -265,10 +265,10 @@
   },
   "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "Network/SSH.md",
-    "Network/JWT.md",
-    "Network/DNS.md",
     "Network/FW(방화벽).md",
+    "Network/JWT.md",
+    "Network/SSH.md",
+    "Network/DNS.md",
     "Network/데이터 통신.md",
     "Network/Telnet.md",
     "Network/SSL.md",
