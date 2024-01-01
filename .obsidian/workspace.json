@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/JWT.md",
+                "file": "CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/JWT.md",
+                "file": "CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/JWT.md",
+                "file": "CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/JWT.md"
+                "file": "CORS.md"
               }
             }
           },
@@ -265,8 +265,9 @@
   },
   "active": "9e23ea08c0ba1a11",
   "lastOpenFiles": [
-    "Network/FW(방화벽).md",
     "Network/JWT.md",
+    "CORS.md",
+    "Network/FW(방화벽).md",
     "Network/SSH.md",
     "Network/DNS.md",
     "Network/데이터 통신.md",
@@ -290,7 +291,6 @@
     "Network/WEB.md",
     "Network/라우터.md",
     "Network/Socket.md",
-    "Network/네트워크 포괄.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
