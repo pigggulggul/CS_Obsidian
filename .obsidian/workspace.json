@@ -108,9 +108,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05a638fad67a75a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/라우터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CORS.md",
+                "file": "Network/라우터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CORS.md",
+                "file": "Network/라우터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CORS.md"
+                "file": "Network/라우터.md"
               }
             }
           },
@@ -263,34 +275,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e23ea08c0ba1a11",
+  "active": "05a638fad67a75a7",
   "lastOpenFiles": [
-    "Network/JWT.md",
-    "CORS.md",
-    "Network/FW(방화벽).md",
-    "Network/SSH.md",
-    "Network/DNS.md",
-    "Network/데이터 통신.md",
+    "Network/Socket.md",
+    "Network/Port.md",
+    "Network/MAC, IP, Port 번호 식별자.md",
+    "Network/Host, Switch, Network.md",
+    "Network/IPv4 프로토콜.md",
     "Network/Telnet.md",
     "Network/SSL.md",
+    "Network/SSH.md",
     "Network/SMTP.md",
-    "Network/HTTP(S) 프로토콜.md",
-    "Network/FTP.md",
-    "conflict-files-obsidian-git.md",
-    "Network/Port.md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/2계층 데이터링크.md",
-    "Network/ICMP 프로토콜.md",
-    "Network/3계층 데이터링크.md",
-    "Network/ARP 프로토콜.md",
-    "Network/TCP 프로토콜.md",
-    "Network/IPv4 프로토콜.md",
-    "Network/MAC, IP, Port 번호 식별자.md",
-    "Network/HTTP 프로토콜.md",
-    "Network/Switch.md",
+    "Network/JWT.md",
+    "Network/FW(방화벽).md",
     "Network/WEB.md",
-    "Network/라우터.md",
-    "Network/Socket.md",
+    "Network/DNS.md",
+    "Network/Switch.md",
+    "Network/FTP.md",
+    "Network/네트워크 포괄.md",
+    "Network/ICMP 프로토콜.md",
+    "Network/ARP 프로토콜.md",
+    "Network/HTTP(S) 프로토콜.md",
+    "Network/UDP 프로토콜.md",
+    "Network/4계층 데이터링크.md",
+    "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/데이터 통신.md",
+    "Network/TCP 프로토콜.md",
+    "CORS.md",
+    "conflict-files-obsidian-git.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
