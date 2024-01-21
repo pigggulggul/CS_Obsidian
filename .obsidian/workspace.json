@@ -47,9 +47,11 @@
             "id": "7dc0b2fc94d90813",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Computer Architecture"
+                "file": "Computer Architecture/명령어.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -193,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Architecture/명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Architecture/명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Architecture/명령어.md"
+              }
             }
           },
           {
@@ -269,6 +275,7 @@
   },
   "active": "7dc0b2fc94d90813",
   "lastOpenFiles": [
+    "Computer Architecture/명령어.md",
     "Network/ICMP 프로토콜.md",
     "문제.md",
     "README.md",
@@ -295,7 +302,6 @@
     "Network/Switch.md",
     "Network/FTP.md",
     "Network/ARP 프로토콜.md",
-    "Network/HTTP(S) 프로토콜.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
