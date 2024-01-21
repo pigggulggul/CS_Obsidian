@@ -47,11 +47,9 @@
             "id": "7dc0b2fc94d90813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Network/ICMP 프로토콜.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Computer Architecture"
               }
             }
           },
@@ -120,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,8 +267,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05a638fad67a75a7",
+  "active": "7dc0b2fc94d90813",
   "lastOpenFiles": [
+    "Network/ICMP 프로토콜.md",
     "문제.md",
     "README.md",
     "무제 파일.md",
@@ -295,7 +294,6 @@
     "Network/DNS.md",
     "Network/Switch.md",
     "Network/FTP.md",
-    "Network/ICMP 프로토콜.md",
     "Network/ARP 프로토콜.md",
     "Network/HTTP(S) 프로토콜.md",
     "Context/spacesLastSync.log",
