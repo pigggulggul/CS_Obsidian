@@ -113,11 +113,9 @@
             "id": "05a638fad67a75a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Network"
               }
             }
           }
@@ -197,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,9 +232,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
-              }
+              "state": {}
             }
           },
           {
@@ -277,8 +271,13 @@
   },
   "active": "05a638fad67a75a7",
   "lastOpenFiles": [
-    "Network/네트워크 포괄.md",
+    "문제.md",
+    "README.md",
+    "무제 파일.md",
+    "Computer Architecture/Computer Architecture.md",
+    "Computer Architecture",
     "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/네트워크 포괄.md",
     "Network/데이터 통신.md",
     "Network/FW(방화벽).md",
     "Network/라우터.md",
@@ -299,10 +298,6 @@
     "Network/ICMP 프로토콜.md",
     "Network/ARP 프로토콜.md",
     "Network/HTTP(S) 프로토콜.md",
-    "Network/UDP 프로토콜.md",
-    "Network/4계층 데이터링크.md",
-    "Network/TCP 프로토콜.md",
-    "CORS.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
