@@ -19,7 +19,7 @@ sticker: emoji//1f5b1-fe0f
 |4계층 : 전송|TCP, UDP, SPX|
 |3계층 : 네트워크|IP, ICMP, ARP|
 |2계층 : 데이터 링크|Ethernet|
-|1계층 : 물리|전선, 동축케이블|
+|1계층 : 물리|전선, 동축케이블,CSMA/CD |
 
 1. **물리 계층 (Physical Layer)**:
     - 역할: 물리적 매체와 전기 신호를 다룹니다.
