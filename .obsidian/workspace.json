@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 용어.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 용어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md",
+                "file": "Network/네트워크 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 모델 ( TCP, IP ).md"
+                "file": "Network/네트워크 용어.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "f90e934085921d9b",
   "lastOpenFiles": [
+    "Network/네트워크 모델 ( TCP, IP ).md",
+    "Network/네트워크 용어.md",
     "Network/네트워크 포괄.md",
     "Network/ICMP 프로토콜.md",
     "().md",
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/데이터 통신.md",
     "Network/ARP 프로토콜.md",
     "Network/TCP 프로토콜.md",
@@ -200,7 +201,6 @@
     "Network/FW(방화벽).md",
     "Network/Port.md",
     "Network/Telnet.md",
-    "Network/SSL.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
