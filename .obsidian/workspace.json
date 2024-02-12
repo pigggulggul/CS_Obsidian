@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/네트워크 용어.md",
+                "file": "Network/2계층 데이터링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/네트워크 용어.md",
+                "file": "Network/2계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/네트워크 용어.md",
+                "file": "Network/2계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/네트워크 용어.md"
+                "file": "Network/2계층 데이터링크.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "f90e934085921d9b",
   "lastOpenFiles": [
-    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 용어.md",
+    "desktop.ini",
+    "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
     "Network/ICMP 프로토콜.md",
     "().md",
@@ -200,7 +201,6 @@
     "Computer Architecture",
     "Network/FW(방화벽).md",
     "Network/Port.md",
-    "Network/Telnet.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
