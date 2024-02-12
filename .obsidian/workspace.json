@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "738fa85517bd8ed2",
+        "id": "208e522ad6b4a302",
         "type": "tabs",
         "children": [
           {
-            "id": "0906750af0091d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/TCP 프로토콜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7d2115484043f19",
+            "id": "2532b520ed8079a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,97 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9955e3a3be1a73ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/MAC, IP, Port 번호 식별자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dc0b2fc94d90813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Architecture/명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c3a9b2932146c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "6cd6fdc758d9c22a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c89a3fb6a9ec1b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/데이터 통신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3da236c0f71d1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/HTTP(S) 프로토콜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e23ea08c0ba1a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CORS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05a638fad67a75a7",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Computer Architecture"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture/명령어.md",
+                "file": "Network/네트워크 포괄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture/명령어.md",
+                "file": "Network/네트워크 포괄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture/명령어.md"
+                "file": "Network/네트워크 포괄.md"
               }
             }
           },
@@ -273,8 +172,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dc0b2fc94d90813",
+  "active": "2532b520ed8079a2",
   "lastOpenFiles": [
+    "Network/2계층 데이터링크.md",
+    "Network/TCP 프로토콜.md",
+    "CORS.md",
+    "Network/HTTP(S) 프로토콜.md",
+    "Network/데이터 통신.md",
+    "Network/네트워크 포괄.md",
+    "Network/MAC, IP, Port 번호 식별자.md",
     "Computer Architecture/명령어.md",
     "Network/ICMP 프로토콜.md",
     "문제.md",
@@ -283,13 +189,10 @@
     "Computer Architecture/Computer Architecture.md",
     "Computer Architecture",
     "Network/네트워크 모델 ( TCP, IP ).md",
-    "Network/네트워크 포괄.md",
-    "Network/데이터 통신.md",
     "Network/FW(방화벽).md",
     "Network/라우터.md",
     "Network/Socket.md",
     "Network/Port.md",
-    "Network/MAC, IP, Port 번호 식별자.md",
     "Network/Host, Switch, Network.md",
     "Network/IPv4 프로토콜.md",
     "Network/Telnet.md",
@@ -298,10 +201,6 @@
     "Network/SMTP.md",
     "Network/JWT.md",
     "Network/WEB.md",
-    "Network/DNS.md",
-    "Network/Switch.md",
-    "Network/FTP.md",
-    "Network/ARP 프로토콜.md",
     "Context/spacesLastSync.log",
     "Context",
     "Network/context.mdb",
