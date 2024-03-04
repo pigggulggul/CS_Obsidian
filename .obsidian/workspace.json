@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/3계층 데이터링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/3계층 데이터링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/2계층 데이터링크.md",
+                "file": "Network/3계층 데이터링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/2계층 데이터링크.md"
+                "file": "Network/3계층 데이터링크.md"
               }
             }
           },
@@ -174,11 +174,13 @@
   },
   "active": "f90e934085921d9b",
   "lastOpenFiles": [
+    "Network/ICMP 프로토콜.md",
+    "Network/3계층 데이터링크.md",
+    "Network/2계층 데이터링크.md",
     "Network/네트워크 용어.md",
     "desktop.ini",
     "Network/네트워크 모델 ( TCP, IP ).md",
     "Network/네트워크 포괄.md",
-    "Network/ICMP 프로토콜.md",
     "().md",
     "Network/데이터 통신.md",
     "Network/ARP 프로토콜.md",
@@ -191,7 +193,6 @@
     "Network/Host, Switch, Network.md",
     "Network/Switch.md",
     "Network/HTTP(S) 프로토콜.md",
-    "Network/2계층 데이터링크.md",
     "CORS.md",
     "Computer Architecture/명령어.md",
     "문제.md",
