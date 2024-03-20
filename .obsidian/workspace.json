@@ -186,6 +186,8 @@
   },
   "active": "f90e934085921d9b",
   "lastOpenFiles": [
+    "Network/UDP 프로토콜.md",
+    "Network/TCP 프로토콜.md",
     "Network/4계층 데이터링크.md",
     "Network/라우터.md",
     "Network/3계층 데이터링크.md",
@@ -199,8 +201,6 @@
     "Network/네트워크 포괄.md",
     "().md",
     "Network/데이터 통신.md",
-    "Network/TCP 프로토콜.md",
-    "Network/UDP 프로토콜.md",
     "Network/Socket.md",
     "Network/MAC, IP, Port 번호 식별자.md",
     "Network/Host, Switch, Network.md",
